@@ -1,9 +1,10 @@
-import Page from '../components/Page'
+import Page from "../components/Page";
 
 export default function Home() {
   return (
     <Page>
       <h1>This is the Home page</h1>
+      <button>Add to Cart</button>
     </Page>
-  )
+  );
 }
