@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <Page>
       <h1>This is the Home page</h1>
-      <button>Add to Cart</button>
+      <button id="add_cart">Add to Cart</button>
     </Page>
   );
 }
